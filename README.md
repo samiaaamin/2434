@@ -1,2 +1,1 @@
-# 2434
-coding
+A collection of my personal projects
